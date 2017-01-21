@@ -1,0 +1,19 @@
+{
+  "name": "mango-ckeditor",
+  "version": "1.0.0",
+  "description": "CKEditor 4 ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mgrespage@github.com/mgrespage/mango-ckeditor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgrespage/mango-ckeditor/issues"
+  },
+  "homepage": "https://github.com/mgrespage/mango-ckeditor#readme"
+}
